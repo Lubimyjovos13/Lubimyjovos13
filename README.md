@@ -12,13 +12,13 @@
 <br>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lubimyjovos13&theme=moltack&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lubimyjovos13&theme=moltack&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubimyjovos13&theme=moltack&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Lubimyjovos13&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lubimyjovos13&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubimyjovos13&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>  
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
