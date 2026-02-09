@@ -26,9 +26,6 @@ My goal is to build practical, engaging tools that support both students and edu
 ![](https://nirzak-streak-stats.vercel.app/?user=Lubimyjovos13&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubimyjovos13&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 <br> <br> 
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubimyjovos13&layout=compact)](https://github.com/Lubimyjovos13/github-readme-stats)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
